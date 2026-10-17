@@ -22,3 +22,7 @@ Endereço publicado e verificado em 17/10/2026:
 A demo tem noindex e está fora da navegação. Não tem palavra-passe: o endereço e os ficheiros de um repositório público podem ser consultados por outras pessoas.
 
 Workflow adaptado do exemplo oficial: https://github.com/actions/starter-workflows/blob/main/pages/static.yml
+
+## Vídeos otimizados
+
+Os três reels passaram de 225,8 MB para 49,4 MB (redução de 78,1%), mantendo 1080 × 1920, áudio e a duração dos conteúdos. MP4 com faststart e ligações com versão para atualizar a cache. Originais preservados na pasta local de produção.
