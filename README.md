@@ -16,7 +16,7 @@ Apresentação exclusiva para Paulo Margarido, com os três reels do restaurante
 3. Em Settings → Pages, escolher GitHub Actions como origem. Executar o workflow se o primeiro envio ocorreu antes desta configuração.
 4. Aguardar o workflow terminar com sucesso e verificar a página e os três vídeos.
 
-Endereço previsto, caso se use esse nome na conta Pkalysto (ainda não publicado):
+Endereço publicado e verificado em 17/10/2026:
 `https://pkalysto.github.io/cozinha-do-rei-demo/p/paulo-margarido-7f2c91/`
 
 A demo tem noindex e está fora da navegação. Não tem palavra-passe: o endereço e os ficheiros de um repositório público podem ser consultados por outras pessoas.
